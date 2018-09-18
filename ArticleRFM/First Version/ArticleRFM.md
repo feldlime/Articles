@@ -30,7 +30,7 @@
 
 Есть еще расширения всякие, но пока и этого 3D-пространства вполне достаточно.
 
-Сейчас многие используют RFM-анализ, о том как они его делают можно почитать [на хабре](https://habr.com/company/unisender/blog/131225/) или на сайтах компаний: у [Putler](https://www.putler.com/rfm-analysis/) и [Betaout](https://www.betaout.com/learn/use-rfm-analysis-segmentation-boost-business-3x/), например, неплохая визуализация (не могу только понять, как она вышла одинаковой у разных компаний). 
+Сейчас многие используют RFM-анализ, о том как они его делают можно почитать [на хабре](https://habr.com/company/unisender/blog/131225/) или на сайтах компаний: у [Putler](https://www.putler.com/rfm-analysis/) и [Betaout](https://www.betaout.com/learn/use-rfm-analysis-segmentation-boost-business-3x/), например, неплохая визуализация (не могу только понять, как она вышла одинаковой у разных компаний).
 
 
 Подход у всех схожий.
